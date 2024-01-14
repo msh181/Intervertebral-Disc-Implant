@@ -1,4 +1,4 @@
-# Intervertebral-Disc-Implant
+# Intervertebral Disc Implant
 ## Assignment Instructions
 In this assignment, you need to develop a case report on designing a scaffold/implant for fusing the bone tissue between two intervertebral bodies. This assignment consists of the following tasks:
 
