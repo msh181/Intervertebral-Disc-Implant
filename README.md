@@ -9,4 +9,5 @@ In this assignment, you need to develop a case report on designing a scaffold/im
 - Discuss methods that could be used to make the scaffold structure.
 - Using a 3D CAD program, design and test a vertebral cage based on your research above.
 - Physically print a prototype of your scaffold/implant design using an FDM printer.
+
 Please submit a report containing information on the aspects above. Reports should be around 3,000 words (not including references). Please show the steps taken when designing the scaffold/implant material using the CES Edupack software, and the steps taken to design and test your scaffold/implant.
